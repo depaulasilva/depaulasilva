@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Victor de Paula. I'm 25 years old and I'm a Data Analyst at Hyperlocal.
-- 👀 I’m interested in sports and finance, but I am open to exploring many other topics that add great knowledge to me.
-- 🌱 I’m currently learning programming logic, SQL and Python to use on personal and business projects.
-- 💞️ I’m looking to collaborate on data science projects.
-- 📫 If you want to get in touch with me, just send me an email or send me a private message via LinkedIn.
+Hi, I’m Victor de Paula.
 
-<!---
-depaulasilva/depaulasilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Analyst with a background in Economics and a passion for leveraging data in sports/e-sports and finance. 
+
+Currently pursuing a Master's in Business and Technology (MBT) in Data Science and AI. 
+
+Experienced in building and delivering management dashboards, conducting exploratory data analysis, and modeling data using SQL and Python. 
+
+Proficient in Excel, SQL and Metabase.
+
+Actively learning and applying advanced data analysis techniques and machine learning models. 
+
+Looking to collaborate on data science projects and further develop my skills in Python and AWS.
+
+If you want to get in touch with me, just send me an email or send me a private message via LinkedIn.
