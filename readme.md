@@ -14,6 +14,7 @@ Proficient in Excel, SQL and Metabase. Actively learning and applying advanced d
 Looking to collaborate on data science and data engineering projects and further develop my skills in Python and the AWS environment.
 
 ## Technologies and Tools
+
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
@@ -31,7 +32,7 @@ Looking to collaborate on data science and data engineering projects and further
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/>
 </div>
 
-## Contacts:
+## Contacts
 
 <div>
 <a href="https://www.instagram.com/victorrdepaula/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
