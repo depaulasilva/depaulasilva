@@ -5,7 +5,7 @@ Data Analyst at [Hyperlocal](https://hyperlocal.com.br/en/hyperlocal/) with a ba
 
 Passion for data, sports/e-sports and finance - btw, I'm Corinthians!
 
-Currently pursuing a Master's in Business and Technology (MBT) in Data Science and AI.
+Currently pursuing Master in Business and Technology (MBT) in Data Science and AI.
 
 Experienced in building and delivering management dashboards, conducting exploratory data analysis, and modeling data using SQL and Python. 
 
